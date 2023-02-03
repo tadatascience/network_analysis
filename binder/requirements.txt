@@ -1,0 +1,6 @@
+networkx
+statsbombpy
+matplotlib
+mplsoccer
+seaborn
+pandas
